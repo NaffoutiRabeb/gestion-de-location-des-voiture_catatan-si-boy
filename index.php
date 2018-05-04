@@ -8,7 +8,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html>
 <head>
 <title>Catatan Si Boy a Bootstarp  Website Template | Home :: w3layouts</title>
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+<link href="css/catatan si boy.css" rel="stylesheet" type="text/css" media="all">
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -48,7 +48,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<!-- script-for-nav -->		
 					<div class="search-box">
 				        <form>
-				            <input type="text" name="s" class="textbox" value="search something" onfocus="this.value = '';" onblur="if
+				            <input type="text" name="s" class="textbox" value="search something" onFocus="this.value = '';" onBlur="if
 				                  	(this.value == '') {this.value = 'search something';}">
 				            <input type="submit" value>
 				        </form>
