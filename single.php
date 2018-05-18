@@ -12,4 +12,3 @@ endwhile; endif; ?>
 the_author(); ?></a></p>
 <?php get_contents(); ?>
 </div><!-- /.blog-post -->
-<h1>kjerhgj</h1>

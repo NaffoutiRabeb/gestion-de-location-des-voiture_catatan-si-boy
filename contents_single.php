@@ -10,5 +10,5 @@ endwhile; endif; ?>
 <h2 class="blog-post-title"><?php the_title(); ?></h2>
 <p class="blog-post-meta"><?php the_date(); ?> par <a href="#"><?php
 the_author(); ?></a></p>
-<?php the_contents(); ?>
+<?php get_contents(); ?>
 </div><!-- /.blog-post -->

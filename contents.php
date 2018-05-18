@@ -1,6 +1,5 @@
 
-<?php the_title();?>
-<h1>Content</h1>
+<h1>bienvenu</h1>
 <?php the_content();?>
 
 <!-- content
