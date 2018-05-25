@@ -19,15 +19,29 @@ body a{
 	-ms-transition:0.5s all;
 }
 .banner{
-	background: url(../images/nn.jpg) no-repeat center top;
-	background-size: cover;
+	background: url(../images/rr.png) no-repeat center top;
+	background-size:
 	-webkit-background-size:cover; 
 	-moz-background-size:cover;
 	-o-background-size:cover;
 	-ms-background-size:cover;
 	min-height:370px;	
 }	
+.cc{
+	background: url(../images/nn.jpg) no-repeat center top;
+	background-size:700px;
+	-webkit-background-size:cover; 
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+	min-height:370px;	
+	align:left;
+}	
 .logo {
+	margin-top: 10em;
+	text-align:center;
+}
+.hh{
 	margin-top: 10em;
 	text-align:center;
 }
@@ -621,7 +635,10 @@ a.b-home:hover {
 }
 .travelling1 h1 a {
 	font-size: 0.7em;
+	
 }
+.haifa{
+color:#000066;}
 .travelling p {
 	font-size: 1.1em;
 }
@@ -632,7 +649,8 @@ a.b-home:hover {
 	text-align: center
 }
 .lequotes {
-	text-align: center;
+	text-align: right
+	;
 }
 .lequotes1 {
 	float: none;
@@ -1113,4 +1131,6 @@ a.load {
 .head-nav ul li a {
 	font-size: 1.2em;
 }
+.label{font-style:italic;
+color:#000066;}
 }
